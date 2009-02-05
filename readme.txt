@@ -1,4 +1,4 @@
-=== Similarity ===
+=== Kiva ===
 Contributors: davidjmillerorg
 Tags: external tool integration, kiva, giving, charity, philanthropy, loans
 Requires at least: 1.5
