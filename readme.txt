@@ -1,5 +1,5 @@
 === Kiva ===
-Contributors: davidjmillerorg
+Contributors: davidjmillerorg, cboyack
 Tags: external tool integration, kiva, giving, charity, philanthropy, loans
 Requires at least: 1.5
 Tested up to: 2.7
@@ -32,3 +32,9 @@ To install it simply unzip the file linked above and save it in your plugins dir
 == Screenshots ==
 
 1. This is a sample options page displayed in Wordpress 2.7
+
+2. This is a sample of the image only output from Kiva
+
+3. This is a sample of the image and text output from Kiva
+
+4. This is a sample of the text only output from Kiva
