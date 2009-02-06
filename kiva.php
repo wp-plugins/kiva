@@ -1,7 +1,7 @@
 <?
 /*
 Plugin Name: Kiva
-Plugin URI: http://www.davidjmiller.org/kiva/
+Plugin URI: http://www.davidjmiller.org/2009/kiva/
 Description: Returns links to Kiva loans. Based on code first written by Connor Boyack (http://www.connorboyack.com/)
 Version: 1.0
 Author: David Miller
