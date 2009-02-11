@@ -17,7 +17,10 @@ The plugin options allow you to choose how many loans to show. You may also choo
 Options include:
 
 * Number of posts to show.
-* Display format fo loan list - Image only displays the image for each loan linked to the donation page, Both displays the image and text information, Text only displays name(linked to the donation page), business, country, and fundraising level/goal for the loan.
+* Display format for loan list - Image only displays the image for each loan linked to the donation page, Both displays the image and text information, Text only displays name(linked to the donation page), business, country, and fundraising level/goal for the loan.
+* Gender - you can restrict to only show loans for men or loans for women.
+* Region - you can show loans only in one of 7 geographic regions.
+* Sector - you can only show certain types of loans such as retail or agriculture.
 
 The plugin allows for the function call anywhere in your page templates:
 
