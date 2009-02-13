@@ -1,7 +1,7 @@
 <?
 /*
 Plugin Name: Kiva
-Plugin URI: http://www.davidjmiller.org/kiva/
+Plugin URI: http://www.davidjmiller.org/2009/kiva/
 Description: Returns links to Kiva loans. Based on code first written by Connor Boyack (http://www.connorboyack.com/)
 Version: 1.1
 Author: David Miller
@@ -11,7 +11,7 @@ Author URI: http://www.davidjmiller.org/
 /*
 	Template Tag: Returns a list of kiva loans needing donations.
 		e.g.: <?php show_kiva(); ?> 
-	Full help and instructions at http://www.davidjmiller.org/kiva/
+	Full help and instructions at http://www.davidjmiller.org/2009/kiva/
 */
 
 load_plugin_textdomain('kiva', 'wp-content/plugins/kiva'); 
@@ -194,7 +194,7 @@ function kiva_options_page(){
 	?>
 		<div class="wrap">
 		<h2><?php echo ucwords(str_replace('-', ' ', basename(__FILE__, ".php"). __(' Options', 'kiva'))); ?></h2>
-		<h3><a href="http://www.davidjmiller.org/kiva/"><?php _e('Help and Instructions', 'kiva') ?></a></h3>
+		<h3><a href="http://www.davidjmiller.org/2009/kiva/"><?php _e('Help and Instructions', 'kiva') ?></a></h3>
 		<form method="post" action="">
 		<fieldset class="options">
 		<table class="optiontable">
