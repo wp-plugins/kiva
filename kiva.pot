@@ -85,7 +85,7 @@ msgid "Kiva"
 msgstr ""
 
 #. Plugin URI of an extension
-msgid "http://www.davidjmiller.org/kiva/"
+msgid "http://www.davidjmiller.org/2009/kiva/"
 msgstr ""
 
 #. Description of an extension
