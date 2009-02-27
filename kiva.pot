@@ -1,0 +1,103 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR David Miller
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/kiva\n"
+"POT-Creation-Date: 2009-02-05 14:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: kiva.php:37
+msgid "Fund a loan today!"
+msgstr ""
+
+#: kiva.php:63
+msgid "Name"
+msgstr ""
+
+#: kiva.php:67
+msgid "Business"
+msgstr ""
+
+#: kiva.php:71
+msgid "Country"
+msgstr ""
+
+#: kiva.php:75
+msgid "Raised"
+msgstr ""
+
+#: kiva.php:97
+msgid "Kiva Options"
+msgstr ""
+
+#: kiva.php:97
+msgid "Kiva"
+msgstr ""
+
+#: kiva.php:126
+msgid "Options saved"
+msgstr ""
+
+#: kiva.php:134
+msgid " Options"
+msgstr ""
+
+#: kiva.php:135
+msgid "Help and Instructions"
+msgstr ""
+
+#: kiva.php:140
+msgid "Number of loans to list"
+msgstr ""
+
+#: kiva.php:144
+msgid "Display format for loan list"
+msgstr ""
+
+#: kiva.php:146
+msgid "Image only"
+msgstr ""
+
+#: kiva.php:147
+msgid "Both"
+msgstr ""
+
+#: kiva.php:148
+msgid "Text only"
+msgstr ""
+
+#: kiva.php:153
+msgid "Update"
+msgstr ""
+
+#. Plugin Name of an extension
+msgid "Kiva"
+msgstr ""
+
+#. Plugin URI of an extension
+msgid "http://www.davidjmiller.org/2009/kiva/"
+msgstr ""
+
+#. Description of an extension
+msgid ""
+"Returns links to Kiva loans. Based on code first written by Connor Boyack "
+"(http://www.connorboyack.com/)"
+msgstr ""
+
+#. Author of an extension
+msgid "David Miller"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://www.davidjmiller.org/"
+msgstr ""
