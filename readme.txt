@@ -26,6 +26,10 @@ The plugin allows for the function call anywhere in your page templates:
 
 * `<?php show_kiva(); ?>`
 
+If you use widgets, you can place this shortcode in a text widget:
+
+* `[SHOW-KIVA]`
+
 == Installation ==
 
 To install it simply unzip the file linked above and save it in your plugins directory under wp-content. In the plugin manager activate the plugin. Settings for the plugin may be altered under the Kiva page of the Options menu (version 2.3) or Settings menu (version 2.5 or later).

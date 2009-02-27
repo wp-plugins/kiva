@@ -3,7 +3,7 @@
 Plugin Name: Kiva
 Plugin URI: http://www.davidjmiller.org/2009/kiva/
 Description: Returns links to Kiva loans. Based on code first written by Connor Boyack (http://www.connorboyack.com/)
-Version: 1.1
+Version: 1.2
 Author: David Miller
 Author URI: http://www.davidjmiller.org/
 */
@@ -11,6 +11,8 @@ Author URI: http://www.davidjmiller.org/
 /*
 	Template Tag: Returns a list of kiva loans needing donations.
 		e.g.: <?php show_kiva(); ?> 
+	Shortcode: For those using widegets, place this shortcode in a text widget
+		e.g.: [SHOW-KIVA]
 	Full help and instructions at http://www.davidjmiller.org/2009/kiva/
 */
 
@@ -264,4 +266,5 @@ function kiva_options_page(){
 }
 
 $options = get_option(basename(__FILE__, ".php"));
+add_shortcode('SHOW-KIVA', 'show_kiva');
 ?>
