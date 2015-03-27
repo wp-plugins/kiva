@@ -1,8 +1,8 @@
 === Kiva ===
-Contributors: davidjmillerorg, cboyack
+Contributors: davidjmillerorg, cboyack, japh
 Tags: external tool integration, kiva, giving, charity, philanthropy, loans
 Requires at least: 1.5
-Tested up to: 4.0
+Tested up to: 4.1.1
 Stable tag: trunk
 
 Kiva lets you give a little to help people worldwide. The Kiva plugin lets you raise the visibility of Kiva by displaying loans with a link donate.
